@@ -1,3 +1,7 @@
+
+# flow chart
+![rer](https://github.com/boobpoop/bayes/blob/master/bayes/image/flow_graph.png)
+
 # test output excel
 
 ![dfasd](https://github.com/boobpoop/bayes/blob/master/bayes/image/output1.png)
@@ -6,6 +10,3 @@
 
 ![dfas](https://github.com/boobpoop/bayes/blob/master/bayes/image/output2.png)
 
-# flow graph
-
-![rer](https://github.com/boobpoop/bayes/blob/master/bayes/image/flow_graph.png)
