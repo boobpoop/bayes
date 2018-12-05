@@ -1,12 +1,12 @@
 
 # flow chart
-![rer](https://github.com/boobpoop/bayes/blob/master/bayes/image/flow_graph.png)
+![rer](https://github.com/boobpoop/bayes/blob/master/bayes/image/bayes_chart.png)
 
-# test output excel
+# test table
 
-![dfasd](https://github.com/boobpoop/bayes/blob/master/bayes/image/output1.png)
+![dfasd](https://github.com/boobpoop/bayes/blob/master/bayes/image/test_chart.png)
 
-# test output graph
+# test chart
 
-![dfas](https://github.com/boobpoop/bayes/blob/master/bayes/image/output2.png)
+![dfas](https://github.com/boobpoop/bayes/blob/master/bayes/image/test_graph.png)
 
